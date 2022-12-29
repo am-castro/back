@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "nome": "Antonio Marcos",
+      "email": "admin@loteriairacema.com.br",
+      "senha": "SenhaPassword"
+    },
+    {
+      "id": 1,
+      "nome": "Kimberli Kirino",
+      "email": "kimberli@loteriairacema.com.br",
+      "senha": "senha123"
+    },
+    {
+      "id": 0,
+      "nome": "Danilo",
+      "email": "danilo@loteriairacema.com.br",
+      "senha": "senha1234"
+    }
+  ],
+  "boloes": [
+    {
+      "id": 0,
+      "type": "MEGA DA VIRADA",
+      "qntGames": 10,
+      "qntDezenas": 15,
+      "concurso": "924",
+      "qntCota": 24,
+      "qntTotalCota": 24124,
+      "vlCota": "R$ 15,00",
+      "vlPremio": "R$ 450.000.000,00",
+      "dtPremio": "31/12/2022"
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": 0,
+      "name": "Antonio Marcos",
+      "bolao": "MEGA DA VIRADA",
+      "email": "",
+      "cpf": "",
+      "telefone": "(85)99999-9999",
+      "dezenas": [5,15,36,10,11,26]
+    }
+  ]
+}
